@@ -1,3 +1,5 @@
+![maxresdefault](https://user-images.githubusercontent.com/98576037/165406406-151dcde0-cae2-4ffd-8e16-c1fc90505733.jpg)
+
 # **NUMBER GUESSING GAME**
 
 # Information
