@@ -2,15 +2,15 @@
 
 # **NUMBER GUESSING GAME**
 
-# Information
+## INFORMATION
 
 * **Number Guessing Game: It is a game of chance played between the User and the Program. If the user knows the number randomly chosen by the program, the user wins.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * Arrays, Random and Scanner classes from the Util library are included in the project.
 
@@ -26,9 +26,7 @@
 
 * With if conditions, it sends a warning without allowing the user to deviate from certain rules.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -170,13 +168,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/NumberGuessingGame.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
